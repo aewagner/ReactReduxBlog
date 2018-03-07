@@ -7,7 +7,7 @@ export const DELETE_POST = 'delete_post';
 
 
 
-const ROOT_URL = 'http://reduxblog.herokuapp.com/api';
+const ROOT_URL = 'https://reduxblog.herokuapp.com/api';
 const API_KEY = '?key=picklerick';
 
 export function fetchPosts() {
