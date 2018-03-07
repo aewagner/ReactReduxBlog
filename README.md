@@ -4,7 +4,7 @@ https://reactredux-blog.herokuapp.com/
 
 ### Simple blog created using React and Redux
 
-Add, view, edit, and delete posts.
+Add, view, and delete posts.
 
 #### Technologies used
 - Axios
