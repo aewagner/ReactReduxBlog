@@ -8,9 +8,9 @@ Add, view, and delete posts.
 
 #### Technologies used
 - Axios
-- Google Maps API
 - Lodash
 - React
 - React-Router
 - Redux
 - Redux-Promise
+- Redux-Form
